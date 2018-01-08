@@ -1,0 +1,1 @@
+About Responsive Design - Using relative units of measurement to create consistent layouts across different devices.
