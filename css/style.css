@@ -32,6 +32,7 @@ body {
   
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+  font-size: 1.5em;
   color: white;
 }
 
@@ -61,12 +62,12 @@ body {
 }
 
 .post h2 {
-  
+  font-size: 1.75em;
   
 }
 
 .post h3 {
-  
+  font-size: 1.25em;
   color: #999999;
 }
 
@@ -98,7 +99,7 @@ footer {
   padding: 4rem 0;
   border-top: 1px solid #999999;
   font-family: 'Roboto', sans-serif;
-  
+  font-size: 0.75em;
   color: #999999;
   text-align: center;
 }
