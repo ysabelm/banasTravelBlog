@@ -28,6 +28,8 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  
+  height: 46rem;
 }
 
 #banner h1 {
@@ -59,6 +61,8 @@ body {
   text-align: center;
   line-height: 1.8;
   color: #444444;
+  margin-top: 12.5%;
+  margin-bottom: 7.5%;
 }
 
 .post h2 {
@@ -85,7 +89,7 @@ body {
 /* Blog Images */
 
 .images {
-  
+  margin-bottom: 20%;
 }
 
 .images .image-container {
