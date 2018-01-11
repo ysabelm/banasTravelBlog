@@ -30,7 +30,7 @@ p {
   
   background-image: url('http://moroccosafaritours.com/wp-content/uploads/fes.png');
   background-position: center;
-  
+  background-size: cover;
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
